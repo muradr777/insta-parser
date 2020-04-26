@@ -48,8 +48,3 @@ $ ./insta_parser.py
 
  - Write Tests
  - Add feature of getting all images in slides
-
-License
-----
-
-MIT
